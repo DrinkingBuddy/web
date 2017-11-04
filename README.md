@@ -10,7 +10,7 @@ An app that helps you moderate your drinking intake.
  1. curl -XGET http://localhost:9200/pelias/_search?pretty=true&q=name.default:*SMART%20Stop*
 
 
-###INITIAL CHECKOUT
+### INITIAL CHECKOUT
 
 1. git clone https://github.com/
 1. git update-index --no-assume-unchanged pelias.json

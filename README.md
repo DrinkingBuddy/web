@@ -1,6 +1,6 @@
 # Drinking Buddy
 
-An app that helps you moderate you drinking intake.
+An app that helps you moderate your drinking intake.
 
 
 ### To run:
@@ -8,7 +8,7 @@ An app that helps you moderate you drinking intake.
  1. npm install
  1. npm start
  1. curl -XGET http://localhost:9200/pelias/_search?pretty=true&q=name.default:*SMART%20Stop*
-```
+
 
 ###INITIAL CHECKOUT
 
